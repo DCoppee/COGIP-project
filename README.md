@@ -40,7 +40,7 @@ Our general mission was to code a web application to manage all the COGIP data.
   - Google Ligthouse Test
   - Semantics
 
-## App description (fonctionnalités, langages)
+## App description
 
 ### Languages and employed technologies
 
